@@ -1,6 +1,6 @@
 # Hi there! 👋✨ I'm Angie
 
-I'm a curious and improvement-driven Fullstack Web Developer student who’s passionate about building cool things and diving deep into new challenges.  
+I'm a curious and improvement-driven Fullstack Developer student who’s passionate about building cool things and diving deep into new challenges.  
 Nothing makes me happier than hyperfocusing on something I love and seeing how much I can learn and grow! 
 
 ---
@@ -16,19 +16,18 @@ Nothing makes me happier than hyperfocusing on something I love and seeing how m
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-> Currently exploring: **TypeScript** 💙 and **Tailwind CSS** 🎀
+> Currently exploring: **Python** 💙 and **Angular** 🎀
 
 ---
 
 ## 🌱 Right Now
-I'm investing my summer into working on my portfolio, learning new skills, and experimenting with small personal projects I've been dreaming up!  
-Everything is a work in progress — and that's exactly how I like it. 💪
+I’m doing my internship as part of my studies, while also working on my thesis and experimenting with small personal projects on the side.  
+Everything is a work in progress — and that’s exactly how I like it. 💪
 
 ---
 
 ## ✨ A Bit About Me
-- Collecting cute Pokémon cards is my new hobby (only the cutest ones make the cut 👀)
-- I love painting, drawing, and expressing creativity in different ways
+- I love painting, sewing, and expressing creativity in different ways
 - Traveling and learning new languages is a huge passion
 - Born in Peru 🇵🇪, raised in Spain 🇪🇸, and now living in Sweden 🇸🇪
 
@@ -39,7 +38,4 @@ Everything is a work in progress — and that's exactly how I like it. 💪
 - Portfolio: Coming soon... 🚧✨
 
 ---
-
-> "We’re all beginners at first — the important part is starting."
-
 Thanks for stopping by! 😊
