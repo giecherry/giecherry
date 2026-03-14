@@ -36,7 +36,7 @@ Everything is a work in progress — and that’s exactly how I like it. 💪
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/angie-cajusol/) 💼
-- Portfolio: Coming soon... 🚧✨
+- [Portfolio](https://angie-cajusol.vercel.app/) 🍒
 
 ---
 Thanks for stopping by! 😊
