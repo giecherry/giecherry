@@ -54,7 +54,7 @@ I'm also looking forward to finding my next opportunity, somewhere I can contrib
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/angie-cajusol/) 💼
-- [Portfolio](https://angie-cajusol.vercel.app/) 🍒
+- [Portfolio](https://cajusol.dev//) 🍒
 
 ---
 
