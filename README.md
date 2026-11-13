@@ -1,6 +1,7 @@
 # Hi there! 👋✨ I'm Angie
 
-I'm a curious and improvement-driven fullstack developer early in my software engineering journey, passionate about building useful things and diving deep into new challenges.  
+I'm a curious, improvement-driven fullstack developer who loves building useful things, figuring out how stuff works, and finding better ways to do things.
+
 Nothing makes me happier than hyperfocusing on something I love and seeing how much I can learn, improve, and turn ideas into practical solutions!
 
 ---
@@ -18,6 +19,8 @@ Nothing makes me happier than hyperfocusing on something I love and seeing how m
 ![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF9AA4?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -26,30 +29,33 @@ Nothing makes me happier than hyperfocusing on something I love and seeing how m
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
-> Currently exploring: **SharePoint Framework**, **Power BI integrations**, **Python**, and better ways to turn messy workflows into useful internal tools ✨
+> Currently exploring: **C#/.NET**, **CI/CD**, **testing**, **AI-powered tools**, and better ways to build software that's reliable, maintainable, and actually useful. ✨
 
 ---
 
 ## 🌱 Right Now
 
-I’m currently working at **Scania** as a Software Engineer on a summer project, where I’m owning the end-to-end development of a custom internal platform using **SPFx, React, and TypeScript**.
+I'm currently balancing real development work with projects of my own, getting to work with different technologies and taking the opportunity to explore things I've been curious about for a while.
 
-The work combines development, UX, stakeholder collaboration, technical research, and solution architecture — basically the kind of challenge where I get to understand how people work, design something useful, and build it properly.  
+Lately, I've been especially interested in the parts of development that go beyond getting a feature to work, like testing, deployment, automation, and making better technical decisions as projects grow.
 
-I recently completed my Fullstack Developer studies at Nackademin, including a six-month internship at Scania, and I’m now looking for a place where I can keep growing, contribute to meaningful products, and work with people who enjoy solving problems together. 💪
+I'm also looking forward to finding my next opportunity, somewhere I can contribute to interesting projects, keep learning, and work with people who enjoy figuring things out together. 💪
 
 ---
 
 ## ✨ A Bit About Me
-- I love painting, sewing, and expressing creativity in different ways
-- Traveling and learning new languages is a huge passion
+
+- I love painting, sewing, and expressing creativity in different ways 🎨
+- Traveling and learning new languages are two of my favorite things 🌏
 - Born in Peru 🇵🇪, raised in Spain 🇪🇸, and now living in Sweden 🇸🇪
 
 ---
 
 ## 📫 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/angie-cajusol/) 💼
 - [Portfolio](https://angie-cajusol.vercel.app/) 🍒
 
 ---
+
 Thanks for stopping by! 😊
